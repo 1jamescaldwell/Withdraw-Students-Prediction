@@ -4,8 +4,8 @@
 This project predicts the likelihood of student withdrawal using a **Random Forest Classifier** based on historical enrollment and academic data. The script processes multiple datasets, trains a model, and outputs prediction results.  
 
 ## Authors  
-- James Caldwell  
-- Natalia Startseva  
+- James Caldwell - Python code
+- Natalia Startseva - Integration with Qlik (for automation and dashboarding)
 
 ## Data Sources  
 The script loads student-related data from CSV files:  
