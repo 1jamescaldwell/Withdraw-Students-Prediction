@@ -38,12 +38,6 @@ The script loads student-related data from CSV files:
    - Identifies students predicted to withdraw and saves them to `predicted_withdraws.csv`.  
    - Logs execution details in `withdraw.log`.  
 
-## Dependencies  
-- Python 3  
-- pandas  
-- numpy  
-- scikit-learn  
-
 ## Output Files  
 - **`confusion_matrix.csv`** – Performance summary of predictions.  
 - **`predicted_withdraws.csv`** – List of students identified as high risk for withdrawal.  
